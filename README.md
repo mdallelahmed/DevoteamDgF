@@ -9,3 +9,9 @@ DDF - Test Front
 
 ```npx http-server```
 
+## Open Web Page 
+
+```http://127.0.0.1:8081/dist/```
+
+![alt text](http://url/to/Bicycle Company - 127.0.0.1.png)
+
