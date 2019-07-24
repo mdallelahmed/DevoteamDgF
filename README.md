@@ -13,5 +13,5 @@ DDF - Test Front
 
 ```http://127.0.0.1:8081/dist/```
 
-![alt text](http://url/to/Bicycle Company - 127.0.0.1.png)
+![alt text](http://url/to/Bicycle-Company-127.0.0.1.png)
 
