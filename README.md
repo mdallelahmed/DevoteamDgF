@@ -1,5 +1,15 @@
 # DevoteamDgF
-DDF - Test Front
+DDF - Test Front:
+
+This repo contains techniques and concepts to build responsive web applications.
+
+## Usage
+
+- Html
+- JavaScript
+- CSS/Sass
+- JQuery
+- Svg
 
 ## Cloning the repository
 
@@ -8,6 +18,10 @@ DDF - Test Front
 ## Start Local Server
 
 ```npx http-server```
+
+## Stretch Goals
+
+
 
 ## Open Web Page 
 
