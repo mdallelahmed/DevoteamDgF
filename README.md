@@ -1,7 +1,7 @@
 # DevoteamDgF
 DDF - Test Front:
 
-This repo contains techniques and concepts to build responsive web applications.
+This repository contains techniques and concepts to build responsive web applications.
 
 ## Usage
 
@@ -11,6 +11,9 @@ This repo contains techniques and concepts to build responsive web applications.
 - JQuery
 - Svg
 
+## Stretch Goals
+
+
 ## Cloning the repository
 
 ```git clone https://github.com/mdallelahmed/devoteamDF.git```
@@ -18,10 +21,6 @@ This repo contains techniques and concepts to build responsive web applications.
 ## Start Local Server
 
 ```npx http-server```
-
-## Stretch Goals
-
-
 
 ## Open Web Page 
 
